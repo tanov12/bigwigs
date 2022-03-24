@@ -1,0 +1,29 @@
+## Interface: 90002
+## Author: Aldarana
+## Version: 1.0.0
+## Title: |cff0091edNaowh|r|cffffa300UI|r Installer
+## Notes: Contains profile layouts designed by Naowh
+## RequiredDeps: ElvUI
+## DefaultState: enabled
+## SavedVariables: NaowhUI_DB
+
+core.lua
+installerTable.lua
+
+Dumps\BigWigsDump.lua
+Dumps\ElvUIDump.lua
+Dumps\DetailsDump.lua
+Dumps\ExorsusDump.lua
+Dumps\GottaGoFastDump.lua
+Dumps\NameplateAurasDump.lua
+Dumps\PlaterDump.lua
+Dumps\WeakAurasDump.lua
+
+BigWigsImport.lua
+DetailsImport.lua
+ElvUIImport.lua
+ExRTImport.lua
+GottaGoFastImport.lua
+NameplateAurasImport.lua
+WeakAuarsImport.lua
+PlaterImport.lua
